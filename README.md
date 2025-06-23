@@ -24,8 +24,16 @@ TECNICALITIES/TOOLS USED
 
 SYSTEM SCREENSHOTS
 
-<img src = "01.png" width ="1000" /> 
-<img src = "02.png" width ="1000" />
-<img src = "03.png" width ="1000" />
-<img src = "04.png" width ="1000" />
-<img src = "05.png" width ="1000" />
+Warehouse Management System
+<img src = "admin-01.jpg" width ="1000" /> 
+<img src = "admin-02.jpg" width ="1000" /> 
+<img src = "admin-03.jpg" width ="1000" /> 
+<img src = "admin-04.jpg" width ="1000" /> 
+<img src = "admin-05.jpg" width ="1000" />
+<img src = "admin-06.jpg" width ="1000" /> 
+
+Lastmile Screenshots
+<img src = "Lastmile-01" width ="1000" />
+<img src = "Lastmile-02" width ="1000" />
+<img src = "Lastmile-03" width ="1000" />
+<img src = "Lastmile-04" width ="1000" />
